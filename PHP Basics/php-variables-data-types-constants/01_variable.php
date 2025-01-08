@@ -1,5 +1,5 @@
 <?php 
-    //string 
+    //string
 
     $name="Amdadul Islam"; 
     echo ($name);
