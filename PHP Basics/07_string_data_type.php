@@ -4,6 +4,7 @@
     var_dump($name);
 
     /*
-    Hold letters or any alphabets, even numbers are included. These are written within double quotes during declaration.
+        - Hold letters or any alphabets, even numbers are included. 
+        - These are written within double quotes during declaration.
     */
 ?>
