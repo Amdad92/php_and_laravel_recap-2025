@@ -69,7 +69,7 @@
         print_r($result);
 
      /* 
-        PHP implode() function - স্ট্রিংকে একটি অ্যারেতে ভাগ করতে।
+        PHP implode() function - একটি অ্যারে থেকে স্ট্রিং তৈরি করতে।
             syntax: implode($delimiter, $array);
     */
         $array = ["apple", "banana", "orange"];
