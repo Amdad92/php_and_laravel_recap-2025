@@ -9,29 +9,29 @@
     <=   Less Than or Equal To      $x <= $y  Returns True if $x is less than or equal to $y
     >=   Greater Than or Equal To   $x >= $y  Returns True if $x is greater than or equal to $y
 */
-        $a = 80;
-        $b = 50;
-        $c = "80";
-        
-        var_dump($a == $c);
-        echo "\n";
+$a = 80;
+$b = 50;
+$c = "80";
 
-        var_dump($a != $b);
-        echo "\n";
+var_dump($a == $c);
+echo "\n";
 
-        var_dump($a === $c);
-        echo "\n";
+var_dump($a != $b);
+echo "\n";
 
-        var_dump($a !== $c);
-        echo "\n";
+var_dump($a === $c);
+echo "\n";
 
-        var_dump($a < $b);
-        echo "\n";
+var_dump($a !== $c);
+echo "\n";
 
-        var_dump($a > $b);
-        echo "\n";
+var_dump($a < $b);
+echo "\n";
 
-        var_dump($a <= $b);
-        echo "\n";
+var_dump($a > $b);
+echo "\n";
 
-        var_dump($a >= $b);
+var_dump($a <= $b);
+echo "\n";
+
+var_dump($a >= $b);
