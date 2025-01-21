@@ -27,7 +27,7 @@
     echo "\n";
 
     //Iterating Over an Associative Array
-    
+
     $person = [
         "name" => "John Doe",
         "age" => 30,
@@ -37,4 +37,5 @@
     foreach ($person as $key => $value) {
         echo "$key: $value\n";
     }
+    
 ?>
