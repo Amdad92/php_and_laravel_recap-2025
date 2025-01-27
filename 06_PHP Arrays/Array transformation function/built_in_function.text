@@ -1,0 +1,7 @@
+array_map,
+array_filter, 
+array_merge, 
+array_replace, 
+array_flip, 
+array_change_key_case, 
+array_column.

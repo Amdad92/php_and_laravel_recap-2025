@@ -1,0 +1,10 @@
+sort,
+rsort, 
+asort, 
+arsort,
+ksort, 
+krsort, 
+natsort, 
+natcasesort, 
+uasort, 
+uksort.

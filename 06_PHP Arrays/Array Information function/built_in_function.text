@@ -1,0 +1,8 @@
+ count, 
+ sizeof, 
+ array_sum, 
+ array_product, 
+ in_array, 
+ is_array, 
+ array_key_exists, 
+ array_search.
