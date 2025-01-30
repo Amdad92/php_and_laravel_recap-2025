@@ -1,0 +1,33 @@
+01_Introduction to PHP and Files
+
+02_File Handling Basics
+
+    - Opening a File
+
+    - Reading from a File
+
+    - Writing to a File
+
+    - Closing a File
+
+03_File Functions in PHP
+
+    - fopen()
+
+    - fread()
+
+    - fwrite()
+
+    - fclose()
+
+    - file_get_contents()
+
+    - file_put_contents()
+
+04_Working with File Permissions
+
+05_Uploading Files via Forms
+
+06_Error Handling in File Operations
+
+07_Best Practices for File Handling
