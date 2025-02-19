@@ -51,8 +51,6 @@ $cat=new Cat("Whiskers");
 echo $cat->name. " Says: ". $cat->makeSound();
 
 
-echo "\n*************************************\n";
-
 /*
 
 ব্যাখ্যা:
@@ -66,12 +64,16 @@ echo "\n*************************************\n";
 */
 
 
+echo "\n*************************************\n";
+
+
 /*
 
 মেথড ওভাররাইডিং (Method Overriding)
 চাইল্ড ক্লাসে প্যারেন্ট ক্লাসের মেথডকে রিডিফাইন করা যায়। একে মেথড ওভাররাইডিং বলে। উপরের উদাহরণে Dog এবং Cat ক্লাসে makeSound মেথড ওভাররাইড করা হয়েছে।
 
 */
+
 
 /*
 
@@ -94,7 +96,7 @@ class Car extends Vehicle {
 }
 
 $car = new Car();
-echo $car->makeSound(); // Output: Some vehicle sound Woof! Woof!
+echo $car->makeSound(); // Output: Some vehicle sound Peep! Peep!
 
 /*
 
