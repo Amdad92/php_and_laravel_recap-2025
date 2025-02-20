@@ -1,7 +1,30 @@
 <?php
 /*
+Create a PHP program that calculates the area of different shapes using the concept of abstraction.
 
+1. Create an Abstract Class:
+    - Define an abstract class named Shape with the following:
+    - An abstract method area() that must be implemented by child classes.
 
+2. Create Child Classes:
+
+    Circle:
+        - Add a property $radius.
+        - Implement the area() method to calculate the area of a circle using the formula
+        
+    Rectangle:
+        - Add properties $length and $width.
+        - Implement the area() method to calculate the area of a rectangle using the formula
+
+3. Create Objects and Display Results:
+        - Create an object of the Circle class with a radius of 50.
+        - Create an object of the Rectangle class with a length of 50 and a width of 40.
+
+4. Additional Requirements:
+
+        - Use the pi() function in PHP for the value of π.
+        - Ensure all properties are encapsulated (use private or protected).  
+        - Use constructors to initialize the properties of the child classes.
 */
 
 // Abstract class representing a Shape
